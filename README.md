@@ -13,8 +13,8 @@ Operational risk identification through trend analysis and performance monitorin
 Improved decision-making through centralized healthcare intelligence and reporting.
 
 
-Features of Healthcare Operations Intelligence Dashboard:
-Medical Operations Intelligence Dashboard & Automation System
+Features:
+Medical Operations Intelligence Dashboard & Automation System 
 
 1. Executive Command Center
    
