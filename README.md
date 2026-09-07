@@ -230,7 +230,9 @@ A dedicated Medical Operations AI Agent can allow management to ask questions su
 
 The AI Agent can provide data-backed answers, charts, trends, explanations and recommended actions.
 
-* Advanced Dashboard Features:
+
+
+Advanced Dashboard Features:
 
 * Interactive Power BI dashboards
 * Natural-language Q&A
