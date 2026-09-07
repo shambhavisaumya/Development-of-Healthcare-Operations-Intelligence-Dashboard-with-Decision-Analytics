@@ -232,7 +232,7 @@ The AI Agent can provide data-backed answers, charts, trends, explanations and r
 
 
 
-Advanced Dashboard Features:
+17. Advanced Dashboard Features:
 
 * Interactive Power BI dashboards
 * Natural-language Q&A
