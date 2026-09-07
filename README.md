@@ -216,7 +216,6 @@ Medical Operations Intelligence Dashboard & Automation System
 16. AI Agent / Copilot
 
 A dedicated Medical Operations AI Agent can allow management to ask questions such as:
-
 “What caused revenue to decrease this month?”
 
 “Which department has the highest operational delays?”
